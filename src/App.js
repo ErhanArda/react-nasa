@@ -9,7 +9,7 @@ const App = () => {
   return (
     <div className="app">
       <Switch>
-        <Route component={Home} path="/" exact />
+        <Route component={Home} path="/react-nasa" exact />
         <Route component={NasaPhoto} path="/nasa-photo" exact />
       </Switch>
     </div>
