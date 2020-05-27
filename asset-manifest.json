@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-nasa/static/css/main.cbdff6c0.chunk.css",
+    "main.js": "/react-nasa/static/js/main.094e65f5.chunk.js",
+    "main.js.map": "/react-nasa/static/js/main.094e65f5.chunk.js.map",
+    "runtime-main.js": "/react-nasa/static/js/runtime-main.63a6c6f9.js",
+    "runtime-main.js.map": "/react-nasa/static/js/runtime-main.63a6c6f9.js.map",
+    "static/js/2.b868f704.chunk.js": "/react-nasa/static/js/2.b868f704.chunk.js",
+    "static/js/2.b868f704.chunk.js.map": "/react-nasa/static/js/2.b868f704.chunk.js.map",
+    "index.html": "/react-nasa/index.html",
+    "precache-manifest.a616533b44e5f4ca3e8f6cc90c1b7c8e.js": "/react-nasa/precache-manifest.a616533b44e5f4ca3e8f6cc90c1b7c8e.js",
+    "service-worker.js": "/react-nasa/service-worker.js",
+    "static/css/main.cbdff6c0.chunk.css.map": "/react-nasa/static/css/main.cbdff6c0.chunk.css.map",
+    "static/js/2.b868f704.chunk.js.LICENSE.txt": "/react-nasa/static/js/2.b868f704.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-nasa/static/media/S2-3840x2160.8a423626.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63a6c6f9.js",
+    "static/js/2.b868f704.chunk.js",
+    "static/css/main.cbdff6c0.chunk.css",
+    "static/js/main.094e65f5.chunk.js"
+  ]
+}
