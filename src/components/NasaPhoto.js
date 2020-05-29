@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from "react";
+import Image from 'react-shimmer'
+import { Spinner } from 'reactstrap';
 import NavBar from "./NavBar";
 
 const apiKey = process.env.REACT_APP_NASA_KEY;
@@ -23,13 +25,20 @@ export default function NasaPhoto() {
 
     return (
         <>
-            <NavBar/>
+            <NavBar />
             <div className="nasa-photo">
                 {photoData.media_type === "image" ? (
-                    <img
+
+                    <Image
                         src={photoData.url}
                         alt={photoData.title}
                         className="photo"
+                        fallback={
+                            <Spinner style={{
+                                display: "flex", alignSelf: "center", justifyContent: "center",
+                                margin: "5rem 5rem 5rem 5rem ", width: '4rem', height: '4rem'
+                            }} color="warning" />
+                        }
                     />
                 ) : (
                         <iframe
