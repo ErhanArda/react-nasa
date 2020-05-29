@@ -1,23 +1,26 @@
 {
   "files": {
     "main.css": "/react-nasa/static/css/main.cbdff6c0.chunk.css",
-    "main.js": "/react-nasa/static/js/main.094e65f5.chunk.js",
-    "main.js.map": "/react-nasa/static/js/main.094e65f5.chunk.js.map",
+    "main.js": "/react-nasa/static/js/main.f4e70527.chunk.js",
+    "main.js.map": "/react-nasa/static/js/main.f4e70527.chunk.js.map",
     "runtime-main.js": "/react-nasa/static/js/runtime-main.63a6c6f9.js",
     "runtime-main.js.map": "/react-nasa/static/js/runtime-main.63a6c6f9.js.map",
-    "static/js/2.b868f704.chunk.js": "/react-nasa/static/js/2.b868f704.chunk.js",
-    "static/js/2.b868f704.chunk.js.map": "/react-nasa/static/js/2.b868f704.chunk.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/react-nasa/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.89af51ad.chunk.js": "/react-nasa/static/js/2.89af51ad.chunk.js",
+    "static/js/2.89af51ad.chunk.js.map": "/react-nasa/static/js/2.89af51ad.chunk.js.map",
     "index.html": "/react-nasa/index.html",
-    "precache-manifest.a616533b44e5f4ca3e8f6cc90c1b7c8e.js": "/react-nasa/precache-manifest.a616533b44e5f4ca3e8f6cc90c1b7c8e.js",
+    "precache-manifest.2ee1b7e8def915f2bbd61a78ee3e816c.js": "/react-nasa/precache-manifest.2ee1b7e8def915f2bbd61a78ee3e816c.js",
     "service-worker.js": "/react-nasa/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/react-nasa/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.cbdff6c0.chunk.css.map": "/react-nasa/static/css/main.cbdff6c0.chunk.css.map",
-    "static/js/2.b868f704.chunk.js.LICENSE.txt": "/react-nasa/static/js/2.b868f704.chunk.js.LICENSE.txt",
+    "static/js/2.89af51ad.chunk.js.LICENSE.txt": "/react-nasa/static/js/2.89af51ad.chunk.js.LICENSE.txt",
     "static/media/App.css": "/react-nasa/static/media/S2-3840x2160.8a423626.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.63a6c6f9.js",
-    "static/js/2.b868f704.chunk.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.89af51ad.chunk.js",
     "static/css/main.cbdff6c0.chunk.css",
-    "static/js/main.094e65f5.chunk.js"
+    "static/js/main.f4e70527.chunk.js"
   ]
 }
