@@ -52,7 +52,7 @@ export default function NasaPhoto() {
                         />
                     )}
                 <div>
-                <h1>test</h1>
+                <h1>tests</h1>
 
                     <h1>{photoData.title}</h1>
                     <p className="date">{photoData.date}</p>
